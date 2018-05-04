@@ -1,8 +1,8 @@
 ### usergems.com
-##Python Usergems API Documentation
+Python Usergems API Documentation
 
 
-##Requirements
+Requirements
 
 Python3
 
@@ -11,7 +11,7 @@ JSON
 requests
 
 
-##Examples of how to install Requirements
+Examples of how to install Requirements
 
 pip3.4 install requests
 
